@@ -1,0 +1,2 @@
+#  "Different Dependencies" for the program  listed here. You can specify the version of the dependencies.
+#   Ex: flask == 1.0.1  -   -   -   -   1(Major version).0(Minor version).1(Patch version).

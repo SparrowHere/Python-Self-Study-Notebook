@@ -1,0 +1,5 @@
+System: Windows
+Release: 10
+Machine: AMD64
+Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+Python Version: 10.0.19044
