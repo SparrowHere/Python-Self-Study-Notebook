@@ -15,3 +15,4 @@ Self Notes of Python Basics
 * sqlite3
 * numpy
 * pandas
+* seaborn
