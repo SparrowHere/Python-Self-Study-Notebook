@@ -16,3 +16,4 @@ Self Notes of Python Basics (with the help of Udemy)
 * numpy
 * pandas
 * seaborn
+* pandas_datareader
